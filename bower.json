@@ -1,0 +1,23 @@
+{
+  "name": "jsc3d-paul",
+  "main": ["jsc3d.js", "jsc3d.webgl.js", "jsc3d.touch.js"],
+  "homepage": "https://github.com/pgruenbacher/jsc3d",
+  "authors": [
+    "pgruenbacher <pgruenbacher@gmail.com>"
+  ],
+  "description": "fork of jsc3de",
+  "moduleType": [],
+  "keywords": [
+    "render",
+    "stl"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
